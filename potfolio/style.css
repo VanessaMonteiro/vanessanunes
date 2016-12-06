@@ -1,0 +1,88 @@
+@charset "UTF-8";
+h1 {
+	position:relative;
+	margin-top:-365px;
+	
+	color:#FFFFFF;
+	font-size:46px;
+}
+
+h2 {
+	position:relative;
+	margin-top:-250px;
+	color:#FFFFFF;
+	font-size:20px;
+}
+
+body {
+	background-color:#C3BDBD;
+}
+ .list-inline{
+	
+	position:absolute;
+	margin-top:-540px;
+	font-size:20px;
+	
+
+	
+}
+h7 {
+	font-size:25px;
+	color:#000;
+}
+ul a {
+	color:#FFFFFF
+}
+.sobre {
+	margin-top:-3px;
+	background-color:#ECE9E9;
+	
+}
+.portfolio {
+	
+	background-color:#b16b3a;
+	color:#FFFFFF;
+}
+.sobre img {
+	margin-left: 30px;
+}
+.formulario {
+	
+}
+.formulario h2 {
+	margin-top: 50px;
+	color:#000000
+}
+
+	
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+	    background-color:#fff;
+}
+
+.tudo {
+	background-color:#dabfa1;
+	
+}
+.tudo h3 {
+	color:#FFFFFF;
+	
+}
+footer {
+	background-color:#dabfa1;
+	margin-top: -20px
+}
+.btn-primary:hover {
+	background-color:#605D5D;
+}
+.btn-primary {
+	background-color:#C87620 }
+	
+	.btn-default:hover {
+		background-color:#605D5D;
+		color:#FCF6F6
+		
+	}
+	.btn-default { 
+background-color:#C87620;
+color:#FCF6F6
+	}
